@@ -9,4 +9,10 @@ class Database extends DatabaseCRUD {
 		
 	}
 	
+	public function special($request) {
+		
+		// TODO: Queries such as table names, column comments, row count, and so on...
+		
+	}
+	
 }
